@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744781132871",
+    "project_id": "profilify-5f305",
+    "storage_bucket": "profilify-5f305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744781132871:android:35e598c0af8a47ef752d62",
+        "android_client_info": {
+          "package_name": "com.example.dataprofiledisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744781132871-3k77984h3c3g50hidok9gua1s0lq91cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa0APDGx_U0MUrBx6GNOgdhvf5TOaBTeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744781132871-3k77984h3c3g50hidok9gua1s0lq91cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
